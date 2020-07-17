@@ -31,7 +31,7 @@ lines.markeredgewidth: 0
 lines.markersize: 9.1
 lines.solid_capstyle: round
 
-patch.facecolor: 4C72B0
+patch.facecolor: white
 patch.linewidth: .39
 
 text.color: .15
