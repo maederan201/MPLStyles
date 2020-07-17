@@ -2,8 +2,8 @@
 # darkgrid + deep palette + notebook context
 
 axes.axisbelow: True
-axes.edgecolor: white
-axes.facecolor: EAEAF2
+axes.edgecolor: black
+axes.facecolor: white
 axes.grid: True
 axes.labelcolor: .15
 axes.labelsize: 14.3
