@@ -3,7 +3,7 @@
 
 axes.axisbelow: True
 axes.edgecolor: white
-axes.facecolor: EAEAF2
+axes.facecolor: white
 axes.grid: True
 axes.labelcolor: .15
 axes.labelsize: 14.3
