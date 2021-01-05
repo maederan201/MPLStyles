@@ -411,8 +411,8 @@ grid.color       :   656565    ## grid color
 #legend.loc           : best
 legend.frameon       : True     ## if True, draw the legend on a background patch
 #legend.framealpha    : 0.8      ## legend patch transparency
-#legend.facecolor     : inherit  ## inherit from axes.facecolor; or color spec
-#legend.edgecolor     : 0.8      ## background patch boundary color
+legend.facecolor     : 656565  ## inherit from axes.facecolor; or color spec
+legend.edgecolor     : 656565     ## background patch boundary color
 legend.fancybox      : True     ## if True, use a rounded box for the
                                  ## legend background, else a rectangle
 #legend.shadow        : False    ## if True, give background a shadow effect
@@ -434,7 +434,7 @@ legend.fontsize      : 14
 ## See http://matplotlib.org/api/figure_api.html#matplotlib.figure.Figure
 figure.titlesize : 20.0      ## size of the figure title (Figure.suptitle())
 figure.titleweight : bold   ## weight of the figure title
-figure.figsize: 8.0, 5.5   ## figure size in inches
+figure.figsize: 2.756, 1.895   ## figure size in inches
 figure.dpi       : 600        ## figure dots per inch
 #figure.facecolor : white      ## figure facecolor
 #figure.edgecolor : white      ## figure edgecolor
