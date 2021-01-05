@@ -205,7 +205,7 @@ boxplot.capprops.color     : d6dbde
 ## settings for axes and ticks. Special text sizes can be defined
 ## relative to font.size, using the following values: xx-small, x-small,
 ## small, medium, large, x-large, xx-large, larger, or smaller
-font.size           : 14.0
+font.size           : 20.0
 #font.serif          : DejaVu Serif, Bitstream Vera Serif, Computer Modern Roman, New Century Schoolbook, Century Schoolbook L, Utopia, ITC Bookman, Bookman, Nimbus Roman No9 L, Times New Roman, Times, Palatino, Charter, serif
 #font.sans-serif     : DejaVu Sans, Bitstream Vera Sans, Computer Modern Sans Serif, Lucida Grande, Verdana, Geneva, Lucid, Arial, Helvetica, Avant Garde, sans-serif
 #font.cursive        : Apple Chancery, Textile, Zapf Chancery, Sand, Script MT, Felipa, cursive
@@ -296,7 +296,7 @@ axes.edgecolor      : d6dbde   ## axes edge color
 axes.titlesize      : 18   ## fontsize of the axes title
 axes.titleweight    : bold  ## font weight of title
 #axes.titlepad       : 6.0     ## pad between axes and title in points
-axes.labelsize      : 14  ## fontsize of the x any y labels
+axes.labelsize      : 18  ## fontsize of the x any y labels
 #axes.labelpad       : 4.0     ## space between label and axis
 #axes.labelweight    : normal  ## weight of the x and y labels
 axes.labelcolor     : d6dbde
