@@ -205,7 +205,7 @@ lines.markersize  : 2            ## markersize, in points
 ## settings for axes and ticks. Special text sizes can be defined
 ## relative to font.size, using the following values: xx-small, x-small,
 ## small, medium, large, x-large, xx-large, larger, or smaller
-font.size           : 9.0
+font.size           : 7.0
 #font.serif          : DejaVu Serif, Bitstream Vera Serif, Computer Modern Roman, New Century Schoolbook, Century Schoolbook L, Utopia, ITC Bookman, Bookman, Nimbus Roman No9 L, Times New Roman, Times, Palatino, Charter, serif
 #font.sans-serif     : DejaVu Sans, Bitstream Vera Sans, Computer Modern Sans Serif, Lucida Grande, Verdana, Geneva, Lucid, Arial, Helvetica, Avant Garde, sans-serif
 #font.cursive        : Apple Chancery, Textile, Zapf Chancery, Sand, Script MT, Felipa, cursive
@@ -297,7 +297,7 @@ axes.titlesize      : 11   ## fontsize of the axes title
 axes.titleweight    : bold  ## font weight of title
 #axes.titlepad       : 6.0     ## pad between axes and title in points
 axes.labelsize      : 7  ## fontsize of the x any y labels
-#axes.labelpad       : 4.0     ## space between label and axis
+axes.labelpad       : 2.0     ## space between label and axis
 #axes.labelweight    : normal  ## weight of the x and y labels
 #axes.labelcolor     : black
 #axes.axisbelow      : line    ## draw axis gridlines and ticks below
@@ -369,8 +369,8 @@ xtick.major.size     : 2    ## major tick size in points
 xtick.minor.size     : 1      ## minor tick size in points
 xtick.major.width    : 0.5    ## major tick width in points
 xtick.minor.width    : 0.3    ## minor tick width in points
-#xtick.major.pad      : 3.5    ## distance to major tick label in points
-#xtick.minor.pad      : 3.4    ## distance to the minor tick label in points
+xtick.major.pad      : 1.5    ## distance to major tick label in points
+xtick.minor.pad      : 1.4    ## distance to the minor tick label in points
 #xtick.color          : black  ## color of the tick labels
 xtick.labelsize      : 6 ## fontsize of the tick labels
 #xtick.direction      : out    ## direction: in, out, or inout
@@ -389,8 +389,8 @@ ytick.major.size     : 2    ## major tick size in points
 ytick.minor.size     : 1      ## minor tick size in points
 ytick.major.width    : 0.5    ## major tick width in points
 ytick.minor.width    : 0.3    ## minor tick width in points
-#ytick.major.pad      : 3.5    ## distance to major tick label in points
-#ytick.minor.pad      : 3.4    ## distance to the minor tick label in points
+ytick.major.pad      : 1.5    ## distance to major tick label in points
+ytick.minor.pad      : 1.4    ## distance to the minor tick label in points
 #ytick.color          : black  ## color of the tick labels
 ytick.labelsize      : 6 ## fontsize of the tick labels
 #ytick.direction      : out    ## direction: in, out, or inout
@@ -419,7 +419,7 @@ legend.fancybox      : True     ## if True, use a rounded box for the
 legend.numpoints     : 1        ## the number of marker points in the legend line
 #legend.scatterpoints : 1        ## number of scatter points
 #legend.markerscale   : 1.0      ## the relative size of legend markers vs. original
-legend.fontsize      : 6
+legend.fontsize      : 5
 #legend.title_fontsize    : None ## None sets to the same as the default axes.
 ## Dimensions as fraction of fontsize:
 legend.borderpad     : 0.2      ## border whitespace
