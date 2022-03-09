@@ -447,9 +447,9 @@ figure.dpi       : 300        ## figure dots per inch
 #figure.subplot.right   : 0.9    ## the right side of the subplots of the figure
 #figure.subplot.bottom  : 0.11   ## the bottom of the subplots of the figure
 #figure.subplot.top     : 0.88   ## the top of the subplots of the figure
-#figure.subplot.wspace  : 0.2    ## the amount of width reserved for space between subplots,
+figure.subplot.wspace  : 0.4    ## the amount of width reserved for space between subplots,
                                  ## expressed as a fraction of the average axis width
-#figure.subplot.hspace  : 0.2    ## the amount of height reserved for space between subplots,
+figure.subplot.hspace  : 0.4    ## the amount of height reserved for space between subplots,
                                  ## expressed as a fraction of the average axis height
 
 ## Figure layout
@@ -461,8 +461,8 @@ figure.constrained_layout.use: True ## When True, automatically make plot
                                       ## with `autolayout`, above).
 #figure.constrained_layout.h_pad : 0.04167 ## Padding around axes objects. Float representing
 #figure.constrained_layout.w_pad : 0.04167 ##  inches. Default is 3./72. inches (3 pts)
-#figure.constrained_layout.hspace : 0.02   ## Space between subplot groups. Float representing
-#figure.constrained_layout.wspace : 0.02   ##  a fraction of the subplot widths being separated.
+figure.constrained_layout.hspace : 0.4   ## Space between subplot groups. Float representing
+figure.constrained_layout.wspace : 0.4   ##  a fraction of the subplot widths being separated.
 
 #### IMAGES
 #image.aspect : equal             ## equal | auto | a number
