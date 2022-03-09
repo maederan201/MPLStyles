@@ -76,7 +76,7 @@
 #### LINES
 ## See http://matplotlib.org/api/artist_api.html#module-matplotlib.lines for more
 ## information on line properties.
-lines.linewidth   : 4     ## line width in points
+lines.linewidth   : 1     ## line width in points
 #lines.linestyle   : -       ## solid line
 #lines.color       : C0      ## has no affect on plot(); see axes.prop_cycle
 #lines.marker      : None    ## the default marker
@@ -205,7 +205,7 @@ lines.markersize  : 9            ## markersize, in points
 ## settings for axes and ticks. Special text sizes can be defined
 ## relative to font.size, using the following values: xx-small, x-small,
 ## small, medium, large, x-large, xx-large, larger, or smaller
-font.size           : 20.0
+font.size           : 9.0
 #font.serif          : DejaVu Serif, Bitstream Vera Serif, Computer Modern Roman, New Century Schoolbook, Century Schoolbook L, Utopia, ITC Bookman, Bookman, Nimbus Roman No9 L, Times New Roman, Times, Palatino, Charter, serif
 #font.sans-serif     : DejaVu Sans, Bitstream Vera Sans, Computer Modern Sans Serif, Lucida Grande, Verdana, Geneva, Lucid, Arial, Helvetica, Avant Garde, sans-serif
 #font.cursive        : Apple Chancery, Textile, Zapf Chancery, Sand, Script MT, Felipa, cursive
