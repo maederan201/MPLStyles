@@ -419,7 +419,7 @@ legend.fancybox      : True     ## if True, use a rounded box for the
 legend.numpoints     : 1        ## the number of marker points in the legend line
 #legend.scatterpoints : 1        ## number of scatter points
 legend.markerscale   : 0.8      ## the relative size of legend markers vs. original
-legend.fontsize      : 6
+legend.fontsize      : 5
 #legend.title_fontsize    : None ## None sets to the same as the default axes.
 ## Dimensions as fraction of fontsize:
 legend.borderpad     : 0.2      ## border whitespace
