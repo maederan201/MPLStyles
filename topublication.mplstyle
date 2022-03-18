@@ -329,7 +329,7 @@ axes.labelpad       : 2.0     ## space between label and axis
 #axes.unicode_minus  : True    ## use unicode for the minus symbol
                                ## rather than hyphen.  See
                                ## http://en.wikipedia.org/wiki/Plus_and_minus_signs#Character_codes
-axes.prop_cycle    : cycler('color', ['332288', '88ccee', '44aa99', '117733', '999933','ddcc77', 'cc6677', '882255', 'aa4499'])
+axes.prop_cycle    : cycler('color', ['3b4992', 'ee0000', '008b45', '631879', '008280','bb0021', '5f559b', 'a20056', '808180', '1b1919'])
                       ## color cycle for plot lines  as list of string
                       ## colorspecs: single letter, long name, or web-style hex
 					  ## Note the use of string escapes here ('1f77b4', instead of 1f77b4)
