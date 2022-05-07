@@ -302,7 +302,7 @@ legend.edgecolor     : inherit   # legend edge color (when 'inherit' uses axes.e
 figure.titlesize : medium     # size of the figure title
 figure.titleweight : normal   # weight of the figure title
 figure.figsize   : 8, 6    # figure size in inches
-figure.dpi       : 80      # figure dots per inch
+figure.dpi       : 300      # figure dots per inch
 figure.facecolor : 0.75    # figure facecolor; 0.75 is scalar gray
 figure.edgecolor : w       # figure edgecolor
 figure.autolayout : False  # When True, automatically adjust subplot
