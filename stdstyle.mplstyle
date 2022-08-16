@@ -464,10 +464,10 @@ axes.labelsize:      14  # font size of the x and y labels
 #xtick.bottom:        True    # draw ticks on the bottom side
 #xtick.labeltop:      False   # draw label on the top
 #xtick.labelbottom:   True    # draw label on the bottom
-#xtick.major.size:    3.5     # major tick size in points
-#xtick.minor.size:    2       # minor tick size in points
-#xtick.major.width:   0.8     # major tick width in points
-#xtick.minor.width:   0.6     # minor tick width in points
+xtick.major.size:    4.5     # major tick size in points
+xtick.minor.size:    3.0       # minor tick size in points
+xtick.major.width:   0.9     # major tick width in points
+xtick.minor.width:   0.75     # minor tick width in points
 #xtick.major.pad:     3.5     # distance to major tick label in points
 #xtick.minor.pad:     3.4     # distance to the minor tick label in points
 #xtick.color:         black   # color of the ticks
@@ -485,10 +485,10 @@ xtick.labelsize:      11.5  # font size of the tick labels
 #ytick.right:         False   # draw ticks on the right side
 #ytick.labelleft:     True    # draw tick labels on the left side
 #ytick.labelright:    False   # draw tick labels on the right side
-#ytick.major.size:    3.5     # major tick size in points
-#ytick.minor.size:    2       # minor tick size in points
-#ytick.major.width:   0.8     # major tick width in points
-#ytick.minor.width:   0.6     # minor tick width in points
+ytick.major.size:     4.5     # major tick size in points
+ytick.minor.size:     3       # minor tick size in points
+ytick.major.width:    0.9     # major tick width in points
+ytick.minor.width:    0.75     # minor tick width in points
 #ytick.major.pad:     3.5     # distance to major tick label in points
 #ytick.minor.pad:     3.4     # distance to the minor tick label in points
 #ytick.color:         black   # color of the ticks
