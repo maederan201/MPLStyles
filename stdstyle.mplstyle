@@ -357,7 +357,7 @@ text.usetex: False  # use latex for all text handling. The following fonts
 ## https://matplotlib.org/api/axes_api.html#module-matplotlib.axes
 #axes.facecolor:     white   # axes background color
 #axes.edgecolor:     black   # axes edge color
-#axes.linewidth:     0.8     # edge line width
+axes.linewidth:      1.8     # edge line width
 #axes.grid:          False   # display grid or not
 #axes.grid.axis:     both    # which axis the grid should apply to
 #axes.grid.which:    major   # grid lines at {major, minor, both} ticks
