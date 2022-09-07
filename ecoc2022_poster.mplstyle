@@ -526,7 +526,7 @@ legend.edgecolor:     254061      # background patch boundary color
 #legend.numpoints:     1        # the number of marker points in the legend line
 #legend.scatterpoints: 1        # number of scatter points
 #legend.markerscale:   1.0      # the relative size of legend markers vs. original
-legend.fontsize:      22.0
+legend.fontsize:      18.0
 legend.labelcolor:    white
 #legend.title_fontsize: None    # None sets to the same as the default axes.
 
