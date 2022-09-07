@@ -517,7 +517,7 @@ ytick.labelsize:     22  # font size of the tick labels
 ## ***************************************************************************
 #legend.loc:           best
 #legend.frameon:       True     # if True, draw the legend on a background patch
-#legend.framealpha:    0.2      # legend patch transparency
+legend.framealpha:    0.95      # legend patch transparency
 legend.facecolor:     254061 # inherit from axes.facecolor; or color spec
 legend.edgecolor:     254061      # background patch boundary color
 #legend.fancybox:      True     # if True, use a rounded box for the
@@ -527,7 +527,7 @@ legend.edgecolor:     254061      # background patch boundary color
 #legend.scatterpoints: 1        # number of scatter points
 #legend.markerscale:   1.0      # the relative size of legend markers vs. original
 legend.fontsize:      22.0
-#legend.labelcolor:    None
+legend.labelcolor:    white
 #legend.title_fontsize: None    # None sets to the same as the default axes.
 
 ## Dimensions as fraction of font size:
