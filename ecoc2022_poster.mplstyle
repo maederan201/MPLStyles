@@ -356,7 +356,7 @@ font.size:    25
 ## default font sizes for tick labels, and so on.  See
 ## https://matplotlib.org/api/axes_api.html#module-matplotlib.axes
 #axes.facecolor:     white   # axes background color
-axes.edgecolor:     '#254061'   # axes edge color
+axes.edgecolor:     254061   # axes edge color
 axes.linewidth:     2.0     # edge line width
 #axes.grid:          False   # display grid or not
 #axes.grid.axis:     both    # which axis the grid should apply to
@@ -518,8 +518,8 @@ ytick.labelsize:     22  # font size of the tick labels
 #legend.loc:           best
 #legend.frameon:       True     # if True, draw the legend on a background patch
 #legend.framealpha:    0.2      # legend patch transparency
-legend.facecolor:     '254061'  # inherit from axes.facecolor; or color spec
-legend.edgecolor:     '254061'      # background patch boundary color
+legend.facecolor:     254061 # inherit from axes.facecolor; or color spec
+legend.edgecolor:     254061      # background patch boundary color
 #legend.fancybox:      True     # if True, use a rounded box for the
                                 # legend background, else a rectangle
 #legend.shadow:        False    # if True, give background a shadow effect
