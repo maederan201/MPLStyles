@@ -365,9 +365,9 @@ axes.prop_cycle    : cycler('color', ['332288', '88ccee', '44aa99', '117733', '9
 #xtick.bottom         : True   ## draw ticks on the bottom side
 #xtick.labeltop       : False  ## draw label on the top
 #xtick.labelbottom    : True   ## draw label on the bottom
-#xtick.major.size     : 3.5    ## major tick size in points
-#xtick.minor.size     : 2      ## minor tick size in points
-#xtick.major.width    : 0.8    ## major tick width in points
+xtick.major.size     : 1.5    ## major tick size in points
+xtick.minor.size     : 1      ## minor tick size in points
+xtick.major.width    : 0.5    ## major tick width in points
 #xtick.minor.width    : 0.6    ## minor tick width in points
 #xtick.major.pad      : 3.5    ## distance to major tick label in points
 #xtick.minor.pad      : 3.4    ## distance to the minor tick label in points
@@ -385,9 +385,9 @@ xtick.labelsize      : 5.5 ## fontsize of the tick labels
 #ytick.right          : False  ## draw ticks on the right side
 #ytick.labelleft      : True   ## draw tick labels on the left side
 #ytick.labelright     : False  ## draw tick labels on the right side
-#ytick.major.size     : 3.5    ## major tick size in points
-#ytick.minor.size     : 2      ## minor tick size in points
-#ytick.major.width    : 0.8    ## major tick width in points
+ytick.major.size     : 1.5    ## major tick size in points
+ytick.minor.size     : 1      ## minor tick size in points
+ytick.major.width    : 0.5    ## major tick width in points
 #ytick.minor.width    : 0.6    ## minor tick width in points
 #ytick.major.pad      : 3.5    ## distance to major tick label in points
 #ytick.minor.pad      : 3.4    ## distance to the minor tick label in points
@@ -605,7 +605,7 @@ savefig.transparent : True    ## setting that controls whether figures are saved
 #animation.writer : ffmpeg         ## MovieWriter 'backend' to use
 #animation.codec : h264            ## Codec to use for writing movie
 #animation.bitrate: -1             ## Controls size/quality tradeoff for movie.
-                                   ## -1 implies let utility auto-determine
+                                   ## -1 implies let utility auto-determineuu
 #animation.frame_format:  png      ## Controls frame format used by temp files
 #animation.html_args:              ## Additional arguments to pass to html writer
 #animation.ffmpeg_path:  ffmpeg    ## Path to ffmpeg binary. Without full path
