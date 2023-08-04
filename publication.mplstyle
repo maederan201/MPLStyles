@@ -1,5 +1,3 @@
-backend:            QtAgg
-
 font.family:        sans-serif
 
 text.latex.preamble:\usepackage{amsmath},\usepackage{xspace},\usepackage{bm}
