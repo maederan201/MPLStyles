@@ -2,7 +2,6 @@ backend:            QtAgg
 
 font.family:        sans-serif
 
-text.usetex:        True
 text.latex.preamble:\usepackage{amsmath},\usepackage{xspace},\usepackage{bm}
 
 
