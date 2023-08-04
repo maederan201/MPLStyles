@@ -14,3 +14,12 @@ axes.labelpad:      5.0        # space between label and axis
 axes.linewidth:     1.75
 
 lines.linewidth:    1.2
+
+xtick.major.size: 6
+ytick.major.size: 6
+xtick.minor.size: 3
+ytick.minor.size: 3
+xtick.major.width: 1
+ytick.major.width: 1
+xtick.minor.width: 1
+ytick.minor.width: 1
