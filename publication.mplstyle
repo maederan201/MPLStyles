@@ -13,6 +13,7 @@ axes.labelpad:      5.0        # space between label and axis
 axes.linewidth:     1.75
 
 lines.linewidth:    1.2
+lines.markersize:   3
 
 xtick.major.size: 6
 ytick.major.size: 6
