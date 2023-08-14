@@ -23,3 +23,6 @@ xtick.major.width: 1
 ytick.major.width: 1
 xtick.minor.width: 1
 ytick.minor.width: 1
+
+xtick.major.pad:   3.1
+ytick.major.pad:   3.1
