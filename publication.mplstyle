@@ -15,8 +15,8 @@ axes.linewidth:     1.75
 lines.linewidth:    1.2
 lines.markersize:   3
 
-xtick.major.size: 1
-ytick.major.size: 1
+xtick.major.size: 3
+ytick.major.size: 3
 xtick.minor.size: 1
 ytick.minor.size: 1
 xtick.major.width: 1
