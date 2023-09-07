@@ -27,4 +27,8 @@ ytick.minor.width: 1
 xtick.major.pad:   3.1
 ytick.major.pad:   3.1
 
+legend.borderpad = 0.2
+legend.labelspacing = 0.2
+legend.handleheight = 0.2
+
 
