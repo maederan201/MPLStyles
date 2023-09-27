@@ -19,10 +19,10 @@ xtick.major.size: 1.5
 ytick.major.size: 1.5
 xtick.minor.size: 0.5
 ytick.minor.size: 0.5
-xtick.major.width: 1
-ytick.major.width: 1
-xtick.minor.width: 1
-ytick.minor.width: 1
+xtick.major.width: 1.5
+ytick.major.width: 1.5
+xtick.minor.width: 1.5
+ytick.minor.width: 1.5
 
 xtick.major.pad:   3.1
 ytick.major.pad:   3.1
