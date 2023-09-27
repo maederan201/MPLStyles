@@ -30,5 +30,8 @@ ytick.major.pad:   3.1
 legend.borderpad:  0.2
 legend.labelspacing: 0.2
 legend.handleheight: 0.2
+legend.borderaxespad: 0.2
+legend.handletextpad: 0.2
+legend.columnspacing: 0.4
 
 
