@@ -10,7 +10,7 @@ axes.facecolor:     white   # axes background color
 axes.edgecolor:     black   # axes edge color
 axes.labelcolor:    black
 axes.labelpad:      1.0        # space between label and axis
-axes.linewidth:     1.75
+axes.linewidth:     1.5
 
 lines.linewidth:    1.2
 lines.markersize:   3
