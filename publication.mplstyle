@@ -9,7 +9,7 @@ axes.prop_cycle:    cycler('color', ['1f77b4','aec7e8', 'ff7f0e', 'ffbb78', '2ca
 axes.facecolor:     white   # axes background color
 axes.edgecolor:     black   # axes edge color
 axes.labelcolor:    black
-axes.labelpad:      1.0        # space between label and axis
+axes.labelpad:      0.7        # space between label and axis
 axes.linewidth:     1.5
 
 lines.linewidth:    1.2
