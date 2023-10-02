@@ -24,8 +24,8 @@ ytick.major.width: 1.0
 xtick.minor.width: 1.0
 ytick.minor.width: 1.0
 
-xtick.major.pad:   3.1
-ytick.major.pad:   3.1
+xtick.major.pad:   1.5
+ytick.major.pad:   1.5
 
 legend.borderpad:  0.2
 legend.labelspacing: 0.2
